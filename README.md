@@ -91,14 +91,15 @@ _競技規則内の「歩行」と「移動」の規定に注意してくださ�
 
 表1　重量別ロボット足裏
 ```
-ロボットの重量	X	Y	Z
-1.2kg以下（ROBO-ONE & Light）（autoは1.5kg以下）	55%	10cm	35%
-2kg以下（ROBO-ONE & auto）	50%	11cm	30%
-3kg以下（ROBO-ONE & auto）	45%	12cm	25%
-5kg以下（ROBO-ONE & auto）	40%	13cm	25%
-7kg以下	35%	14cm	20%
-10kg以下	30%	15cm	20%
-10kg超	25%	16cm	15%
+weight          	       X	Y	Z
+1.2kg以下（ROBO-ONE & Light）
+         （autoは1.5kg以下）	55%	10cm	35%
+2kg以下  （ROBO-ONE & auto）	50%	11cm	30%
+3kg以下  （ROBO-ONE & auto）	45%	12cm	25%
+5kg以下  （ROBO-ONE & auto）	40%	13cm	25%
+7kg以下	                        35%	14cm	20%
+10kg以下	                30%	15cm	20%
+10kg超	                        25%	16cm	15%
 ```
 4kg以下のロボットは「5kg以下」の欄を参照してください。(5kgより上は参考値)
 

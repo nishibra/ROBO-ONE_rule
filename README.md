@@ -27,11 +27,11 @@ ROBO-ONEは多くの参加者がともに学び、楽しむために下記の志
 
 (図1)1リングの場合
 
-![ring2](/ring2.png)
+![ring2](/ring2s.png)
 
 (図2)2リングの場合
 
-![ring_side](/ring_side.png) 
+![ring_side](/ring_sides.png) 
 
 (図3)横から見た図
 

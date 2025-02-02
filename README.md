@@ -1,5 +1,6 @@
 
 ![robo-one](pics/robo-one.png)  ![bra](pics/bra.png)
+
 1)2024/12/12作成 __2)2025/2/2修正__
 
 # ROBO-ONE Light競技規則

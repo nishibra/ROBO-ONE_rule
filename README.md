@@ -84,7 +84,7 @@ __リングのサイズは大リング(図1)と小リング(図2)があり、会
 足裏の前後の長さ　L * 50% (max 10cm)  
 足裏の左右の長さ　L * 30%  
 
-![legs](pics/leg_foot.png)
+![legs](pics/leg_foot.jpg)
 
 図8
 

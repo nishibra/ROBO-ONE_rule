@@ -88,7 +88,7 @@ __リングのサイズは大リング(図1)と小リング(図2)があり、会
 
 図8
 
-![legs2](/foot_size.jpg)
+![size](pics/foot_size.jpg)
 
 図9
 

@@ -29,11 +29,11 @@ __リングのサイズは大リング(図1)と小リング(図2)があり、会
 
 ![ring](pics/ringL.jpg)
 
-(図1)1リングの場合
+(図1)大リングの場合
 
 ![ring2](pics/ringS.jpg)
 
-(図2)2リングの場合
+(図2)小リングの場合
 
 ![ring_side](pics/ring_sides.png) 
 

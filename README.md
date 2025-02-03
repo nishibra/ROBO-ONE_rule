@@ -71,7 +71,7 @@ __リングのサイズは大リング(図1)と小リング(図2)があり、会
 
 図6 ピッチ軸
 
-![derect](pics/direct.png)
+![derect](pics/direction.jpg)
 
 図7　移動方向
 

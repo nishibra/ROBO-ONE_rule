@@ -1,7 +1,7 @@
 
 ![robo-one](pics/robo-one.png)  ![bra](pics/bra.png)
 
-(1)2024/12/12作成     (2)2025/2/3修正    <font color="red">__(3)2025/4/1改定</font>
+(1)2024/12/12作成     (2)2025/2/3修正    <font color="red">(3)2025/4/1改定</font>
 
 # 第28回ROBO-ONE Light競技規則
 ## 1.前文

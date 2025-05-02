@@ -1,4 +1,4 @@
-# robo-one-rule-backup
+# 28th robo-one light rule Ver2
 
 
 ![robo-one](pics/robo-one.png)  ![bra](pics/bra.png)

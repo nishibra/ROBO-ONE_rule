@@ -1,3 +1,4 @@
+![robo-one](pics/robo-one.png)  ![bra](pics/bra.png)
 # ROBO-ONE競技規則
 
 ## ROBO-ONE Light 参加フロー　[flow](robo-one-light-flow.md)

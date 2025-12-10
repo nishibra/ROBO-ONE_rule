@@ -200,6 +200,7 @@ ROBO-ONEは多くの参加者がともに学び、楽しむために下記の志
    ![side](pics/Pylon_Side.png)
 
 　 図8.1 Pylon Side View
+  
    ![top](pics/Pylon_Top.png)
 
    図8.2 Pylon Top View

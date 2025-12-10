@@ -191,7 +191,7 @@ ROBO-ONEは多くの参加者がともに学び、楽しむために下記の志
 
 ![side](pics/Pylon_Side.png)
 
-図8.1 Pylon Side View
+図8.1 Pylon Side View(肉厚はすべて0.75mm)
 
 ![top](pics/Pylon_Top.png)
 

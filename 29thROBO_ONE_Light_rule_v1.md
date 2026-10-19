@@ -36,7 +36,7 @@ ROBO-ONEは多くの参加者がともに学び、楽しむために下記の志
 
 (図4-1)大リングの場合
 
-![ring](pics/ringS_pls.jpg)
+![ringss](pics/ringS_pls.jpg)
 
 (図4-2)小リングの場合
 
